@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding:0;
+    scroll-behavior: smooth;
+}
+
+.container{
+    margin:100px;
+}
+h1{
+    text-align: center;
+   
+}
+.btn{
+    padding:8px;
+    border-radius: 10px;
+    color:blue;
+    font-size: large;
+    font-weight: bolder;
+    margin-left:550px;
+    margin-top:10px;
+}
+.btn:hover{
+cursor: pointer;
+}
+
+
+.container{
+    margin:150px;
+}
+.header1, .header2,.header3{
+    margin-left:200px;
+    margin-right:200px;
